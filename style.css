@@ -67,7 +67,7 @@ a:hover {
                 padding: 0 10px;
 }
 .subsection { margin: 10px 0 5px }
-.desc { font-size: 16px; font-family: 'Source Sans Pro', sans-serif; color:#444;}
+.desc { font-size: 16px; font-family: 'Source Sans Pro', sans-serif; color:#444; text-align: justify;}
 .contact-info { font-size: 16px;
                 text-align: right;
 }
