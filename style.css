@@ -48,6 +48,7 @@ a:hover {
 .key:first-child { margin-left: 0 }
 .key { margin: 0 10px;
        position: relative;
+	   font-size: 1.5vw;
 }
 .key::before { content: '◆';
                position: absolute;
@@ -67,7 +68,7 @@ a:hover {
                 padding: 0 10px;
 }
 .subsection { margin: 10px 0 5px }
-.desc { font-size: 16px; font-family: 'Source Sans Pro', sans-serif; color:#444; text-align: justify;}
+.desc { font-size: 1.2vw; font-family: 'Source Sans Pro', sans-serif; color:#444; text-align: justify;}
 .contact-info { font-size: 16px;
                 text-align: right;
 }
